@@ -1,7 +1,13 @@
 .jano{
     background-color: aqua;
-    border: 15px solid transparent;
-    box-shadow: 10px 10px 10px transparent;
+    border: 15px 120px 13px 13px dotted greenyellow;
+    box-sizing: content-box; 
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px yellowgreens ;
     text-align: center;
-    margin: 15px auto;
+    margin: 25px auto;
+    text-align: center ;
+    text-shadow: 10px;
+    color: blueviolet;
+    
 }
